@@ -43,8 +43,6 @@ const texto = `DESCRIÇÃO DESEJADA​​`
 ```
 
 Após, rode o comando ```npm start```
-## 🛠️ Construído com
-
 
 ---
 ⌨️ com ❤️ por [Wederson Machado](https://github.com/wederson) 😊
